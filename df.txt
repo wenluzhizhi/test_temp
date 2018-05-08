@@ -9,3 +9,6 @@ my1:add newword
 
 555555
 
+
+server up
+
