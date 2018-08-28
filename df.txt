@@ -3,3 +3,12 @@ readme
 133333:
 
 readme add...
+
+
+
+readme add2:
+<<<<<<< HEAD
+=======
+
+0829 add:
+>>>>>>> 08292
