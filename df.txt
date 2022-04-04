@@ -1,1 +1,21 @@
 left: 0
+
+
+right 1
+
+
+left 1
+
+
+left 2
+
+left3
+<<<<<<< HEAD
+
+
+left4 
+
+
+left 5 
+=======
+>>>>>>> parent of 641644b (left 4)
